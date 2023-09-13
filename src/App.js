@@ -4,8 +4,8 @@ import Ind from './Ind';
 function App() {
   return (
     <>
-    <Ind/>
-    <h1>Helslo </h1>
+    {/* <Ind/> */}
+    <h1>Github Check</h1>
     </>
   );
 }
